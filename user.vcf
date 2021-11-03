@@ -2,13 +2,13 @@ BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
 N:Lim;Preston;;;
-FN: Preston  Lim 
-ORG:GovTech;
-TITLE:Associate Software Engineer\nProducts Team, Data Science Division
-EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
-TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
-item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+FN: Faisal Alraisi 
+ORG:Etihad Energy Service CO LLC;
+TITLE:COO & Acting CEO
+EMAIL;type=INTERNET;type=WORK;type=pref:faisal.alraisi@etihadesco.com
+TEL;type=WORK;type=VOICE:+971 (0)4 8209065
+item1.ADR;type=WORK;type=pref:;;PO Box 37578 | Dubai | UAE
+item1.X-ABADR:ae
+item2.URL;type=pref:etihadesco.ae
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
