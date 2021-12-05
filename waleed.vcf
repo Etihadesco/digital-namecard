@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
+N:AlNuaimi;Waleed;;;
+FN: Dr. Waleed Salem Bindarwish Al Nuaimi 
+ORG:Etihad Energy Service CO LLC;
+TITLE:Director - Business Development
+EMAIL;type=INTERNET;type=WORK;type=pref:waleed.alnuaimi@etihadesco.com
+TEL;type=WORK;type=VOICE:+971 (0)4 8209088
+item1.ADR;type=WORK;type=pref:;;6th Street Close to Civil Defense Station\,Dubai
+item1.X-ABADR:ae
+item2.URL;type=pref:etihadesco.ae
+item2.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
